@@ -1,0 +1,10 @@
+tmp/
+.idea/
+*.log
+/vendor/
+build/
+templates/
+static/
+
+media/
+database.db
